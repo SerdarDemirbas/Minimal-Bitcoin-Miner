@@ -5,9 +5,10 @@ A very simple CPU based Bitcoin Miner in C#. Uses the GETWORK protocol to connec
 
 <b>Edit 2017: Not actually fit for mining - the GETWORK protocol isn't supported anymore by most pools</b>
 
-
+------------------------
 
 NOTLAR
+=====================
 
 Bitcoin Forum
 Other => Beginners & Help => Topic started by: lithander on May 11, 2013, 03:06:18 PM
